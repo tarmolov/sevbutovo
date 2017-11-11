@@ -1,0 +1,266 @@
+- title: Солярис
+  url: http://dom.mos.ru/Company/Details/2015fbcc-5892-4f33-a834-33ec6597e9b6
+  color: red
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [11, 11к.1]
+    - street: ул. Грина
+      houses: [12к.1, 12, 18к.1, 18]
+- title: ГБУ Жилищник района Северное Бутово
+  url: http://dom.mos.ru/Company/Details/a9b96873-8a4f-412e-adde-42cb353d4665
+  color: grey
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [9к.4, 9к.2, 9к.3, 11к.2, 12, 13, 16, 18/4]
+    - street: Коктебельская ул.
+      houses: [2к.1, 2к.2, 4к.3, 4к.2, 8]
+    - street: Старокачаловская ул.
+      houses: [1к.1, 1к.2, 3к.1, 3к.3, 3к.2]
+    - street: ул. Академика Глушко
+      houses: [6, 8, 10к.2, 10к.1, 12, 14к.1, 16]
+    - street: ул. Грина
+      houses: [1к.4, 1к.1, 1к.3, 1к.2, 2, 3к.2, 3к.1, 4, 5, 6, 7, 8, 10, 11, 14, 15, 18к.2]
+    - street: Феодосийская ул.
+      houses: [2, 3, 4, 5, 7, 9, 11]
+- title: ООО «Компания «РЕМСТРОЙСЕРВИС»
+  url: http://dom.mos.ru/Company/Details/b4159223-8c89-40de-8ad8-407ac0525559
+  color: orange
+  items:
+    - street: Куликовская ул.
+      houses: [9к.1]
+    - street: Старокачаловская ул.
+      houses: [3к.4]
+    - street: ул. Грина
+      houses: [20, 24]
+- title: ТСЖ «Синяя птица»
+  url: http://dom.mos.ru/Company/Details/66282801-ffdd-4492-976e-3a1a7c4d3f6f
+  color: blue
+  items:
+    - street: Старокачаловская ул.
+      houses: [4, 6, 8, 10, 12, 14, 16, 18]
+- title: ООО «АВИЛОН-М»
+  url: http://dom.mos.ru/Company/Details/d779a29b-058c-4073-9996-0c9ae504705d
+  color: pink
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [2к.2, 4, 6, 10]
+    - street: Коктебельская ул.
+      houses: [11]
+    - street: Ратная ул.
+      houses: [2к.2, 2к.1, 8к.4, 8к.2, 8к.3, 10к.2, 10к.1, 12к.2, 12к.1, 14, 16к.2, 16к.1]
+    - street: Старобитцевская ул.
+      houses: [9, 11, 15к.3, 15к.2, 15к.1, 19к.1, 19к.3, 19к.2, 21к.1, 21к.3, 21к.2, 23к.1, 23к.4, 23к.2, 23к.3]
+    - street: ул. Грина
+      houses: [1к.6, 1к.5, 1к.8, 1к.7, 28, 28к.1, 30, 34к.1, 34, 36, 40к.1, 40, 42]
+    - street: ул. Знаменские Садки
+      houses: [1к.2, 3к.2, 3к.5, 3к.1, 3к.3, 3к.4, 5к.1, 5к.2, 7к.3, 11]
+- title: ЖК «СОЮЗ»
+  url: http://dom.mos.ru/Company/Details/f761efe2-9d7e-4255-aa64-89cbf13682ac
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [1к.1]
+- title: ЖК «Союз-2»
+  url: http://dom.mos.ru/Company/Details/60b64675-9a20-4d5e-a522-cc070122041e
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [9к.1]
+- title: ЖК «Союз-4»
+  url: http://dom.mos.ru/Company/Details/37e8db58-db20-42c7-8d35-0795b53eb326
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [7к.1]
+- title: ЖК «Союз-5»
+  url: http://dom.mos.ru/Company/Details/6b7862d9-e89d-49ac-9444-791066f04f47
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [7к.2]
+- title: ЖК «Союз-14»
+  url: http://dom.mos.ru/Company/Details/c0df7c46-e71b-4105-be8e-0d200fa0d068
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [1]
+- title: ЖК «Союз-15»
+  url: http://dom.mos.ru/Company/Details/08e9ba0e-26b3-4bb2-9fa7-3445f8ad85fc
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [3]
+- title: ЖК «Союз-17»
+  url: http://dom.mos.ru/Company/Details/5945f9dc-62c5-494b-ab4a-87c0e10f0ea6
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [2к.1]
+- title: ЖК «Союз-18»
+  url: http://dom.mos.ru/Company/Details/300194cb-476d-4261-af24-cdee53784636
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [2к.1]
+- title: ЖК «Союз- 19»
+  url: http://dom.mos.ru/Company/Details/b736ca66-3243-457d-a0a8-52a2d2f72e06
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [9к.1]
+- title: ЖК «Союз- 20»
+  url: http://dom.mos.ru/Company/Details/b5b28fa9-5631-4eb9-b949-effe6811388e
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [9к.1]
+- title: ЖК «Союз-21»
+  url: http://dom.mos.ru/Company/Details/e69b773c-4f0e-4526-b531-6f26fb112ef3
+  color: brown
+  items:
+    - street: ул. Знаменские Садки
+      houses: [9к.2]
+- title: ЖК «Союз-22»
+  url: http://dom.mos.ru/Company/Details/ab35eb3a-0d39-4a34-a2a9-720508fb7456
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [7]
+- title: ЖК «Союз-23»
+  url: http://dom.mos.ru/Company/Details/47d72715-cdf1-42ce-be1c-183092870e1d
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [7]
+- title: ЖК «Союз- 24»
+  url: http://dom.mos.ru/Company/Details/ac248ca2-c7e3-44e3-b586-96e4c7ab015e
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [7]
+- title: ЖК «Союз- 25»
+  url: http://dom.mos.ru/Company/Details/5a3cc631-a3fe-45ca-aa0a-c17141faffb2
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [15]
+- title: ЖК «Союз- 30»
+  url: http://dom.mos.ru/Company/Details/bffde35b-a33a-4b7a-9c99-30a1e3bc3ff6
+  color: brown
+  items:
+    - street: Ратная ул.
+      houses: [8к.1]
+- title: ЖК «Союз- 31»
+  url: http://dom.mos.ru/Company/Details/6545db36-60ea-4b8a-a86e-5337ebe5f810
+  color: brown
+  items:
+    - street: Ратная ул.
+      houses: [8к.1]
+- title: Жилищный кооператив «Союз-36К»
+  url: http://dom.mos.ru/Company/Details/0b323be3-bd87-4ee3-9363-bf9846d27938
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [21к.2]
+- title: ТСЖ «Парус»
+  url: http://dom.mos.ru/Company/Details/0a239fc7-5a61-4641-a265-5f6bf3d6f3d8
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [8]
+- title: ЖСК «Бутово»
+  url: http://dom.mos.ru/Company/Details/db1710c9-68d4-442b-bf23-7c6b150abaf6
+  color: brown
+  items:
+    - street: Коктебельская ул.
+      houses: [4к.1]
+- title: ЖСК «Бутово-1»
+  url: http://dom.mos.ru/Company/Details/7ce54d6b-5aa2-4dcb-9e23-b958d9d25d75
+  color: brown
+  items:
+    - street: Коктебельская ул.
+      houses: [4к.4]
+- title: ЖСК «Бутово-2»
+  url: http://dom.mos.ru/Company/Details/a6c2462e-00a2-49d9-ad24-cd4360127454
+  color: brown
+  items:
+    - street: бульв. Дмитрия Донского
+      houses: [17]
+- title: ЖСК «Бутово-3»
+  url: http://dom.mos.ru/Company/Details/57c033d2-fb95-4060-acd9-670ff204fb02
+  color: brown
+  items:
+    - street: ул. Грина
+      houses: [9]
+- title: ЖСК «Бутово-4»
+  url: http://dom.mos.ru/Company/Details/5e672f96-13ff-4db7-ad16-a0fbdbdaf336
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [7]
+- title: ЖСК «Бутово-5»
+  url: http://dom.mos.ru/Company/Details/a1ac12b2-701a-4f61-9719-79fc993af6e7
+  color: brown
+  items:
+    - street: ул. Грина
+      houses: [13]
+- title: ЖСК «Бутово-6»
+  url: http://dom.mos.ru/Company/Details/a24b70e1-7e61-4147-9634-966c1250ae92
+  color: brown
+  items:
+    - street: ул. Грина
+      houses: [9]
+- title: ЖСК «Бутово-7»
+  url: http://dom.mos.ru/Company/Details/50de1211-11c9-4d86-bd1d-22a056a441a1
+  color: brown
+  items:
+    - street: ул. Грина
+      houses: [13]
+- title: ЖСК «Бутово-8»
+  url: http://dom.mos.ru/Company/Details/437927e3-3092-401b-b81a-9a9224a2bb41
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [9к.2]
+- title: ЖСК «Бутово-9»
+  url: http://dom.mos.ru/Company/Details/b35bbf4f-d909-4af0-abb7-8c4b875809db
+  color: brown
+  items:
+    - street: Куликовская ул.
+      houses: [9к.2]
+- title: ЖСК «Бутово-10»
+  url: http://dom.mos.ru/Company/Details/0cb096ed-85a1-44ea-bcad-761c8ec51b5c
+  color: brown
+  items:
+    - street: ул. Академика Глушко
+      houses: [14к.2]
+- title: ЖСК «Бутово-11»
+  url: http://dom.mos.ru/Company/Details/b9bb7e48-e952-4cb9-9fd5-6654672d9c75
+  color: brown
+  items:
+    - street: ул. Академика Глушко
+      houses: [14к.2]
+- title: ТСЖ «Бутово-12»
+  url: http://dom.mos.ru/Company/Details/4fcb4766-7fea-483b-a09b-f72e6db94061
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [15к.1]
+- title: ЖСК «Бутово-13»
+  url: http://dom.mos.ru/Company/Details/9110e37a-7978-47c6-9052-fc7b1ef24fe6
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [17к.2]
+- title: ЖСК «Бутово-14»
+  url: http://dom.mos.ru/Company/Details/64dfeca4-5c68-47ec-a78d-ea125ef59dd4
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [17к.1]
+- title: ЖСК «Бутово-15»
+  url: http://dom.mos.ru/Company/Details/f685bbe6-b06f-439f-8443-4c7a7cca4400
+  color: brown
+  items:
+    - street: Старобитцевская ул.
+      houses: [17к.3]

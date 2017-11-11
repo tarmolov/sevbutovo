@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "got": "^7.1.0",
+    "js-yaml": "3.6.1"
+  },
+  "scripts": {
+    "build": "./tools/generate-points.js && open src/index.html"
+  }
+}
